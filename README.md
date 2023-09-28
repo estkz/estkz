@@ -14,5 +14,5 @@ I'm estetik, a passionate software developer with a love for coding and sharing 
 
 ### Let's Connect
 - 📫 Feel free to contact me through discord: estkz or e9r.
-- 🎯 Check out my YouTube channel: https://www.youtube.com/loabical.
+- 🎯 Check out my YouTube channel: https://www.youtube.com/@loabical.
 - 📝 Read my latest threads on https://discord.gg/YuCxC7n9Zm
