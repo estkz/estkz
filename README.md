@@ -1,18 +1,22 @@
-### Hi there 👋
+## 👋 Hello
 
-I'm estetik, a passionate software developer with a love for coding and sharing knowledge. Welcome to my GitHub profile!
+I'm estetik, a software developer working across low-level programming and full-stack development.
 
-### About Me
-- 🌟 Programming Languages: I specialize in C#, C++, Java, Lua, JavaScript, and Python.
-- 🚀 Coding Journey: I embarked on my coding journey in 2017 and have been on a continuous learning adventure ever since.
-- 🎥 YouTube Channel: I run a YouTube channel where I share my coding expertise, tutorials, and tips with the community.
+## About Me
+- **Languages:** C#, C++, Java, Lua, JavaScript/TypeScript, Python and more 
+- **Experience:** Programming since 2017  
+- **Interests:** Reverse engineering and malware analysis  
 
-### What I Do
-- 💼 I'm currently working on cheats and other projects that help you learn about programming.
-- 📚 I enjoy learning programming anything related to games and hacking.
-- 🌐 I contribute by sharing open-source projects and actively participate in the developer community.
+## Work & Projects
+- Building a range of projects, including tools, bots, cheats, web applications, and other software
+- Working across both backend systems and frontend interfaces  
+- Analyzing binaries and working with debugging and automation  
 
-### Let's Connect
-- 📫 Feel free to contact me through discord: estkz or e9r.
-- 🎯 Check out my YouTube channel: https://www.youtube.com/@loabical.
-- 📝 Read my latest threads on https://discord.gg/YuCxC7n9Zm
+## Content & Community
+- Sharing technical content and tutorials on YouTube  
+- Active in developer communities  
+
+## Contact
+- **Discord:** estkz / e9r  
+- **YouTube:** https://www.youtube.com/@loabical  
+- **Community:** https://discord.gg/YuCxC7n9Zm
